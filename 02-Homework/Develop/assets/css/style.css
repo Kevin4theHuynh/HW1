@@ -82,22 +82,26 @@ p {
     background-color: #2589bd;
 }
 
+/* Renamed the div class in order to clean up css */
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* Called all h3 tags instead calling individual ones */
 h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* Condensed the multiple image css into a single class */
 .better {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* Gave a class to each section in order to condense code */
 .imgStyle {
     margin-bottom: 20px;
     padding: 50px;
@@ -111,6 +115,7 @@ img {
     max-height: 200px;
 }
 
+/* Condensed the h2 */
 h2 {
     margin-bottom: 20px;
     font-size: 36px;
